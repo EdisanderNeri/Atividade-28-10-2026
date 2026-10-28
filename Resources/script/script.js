@@ -1,6 +1,6 @@
 let message = document.querySelector("#validate")
-let email = "kaua@gmail.com"
-let password = "kaka123"
+let email = "edisandersilva@gmail.com"
+let password = "Edisander0301@@"
 
 let form = document.querySelector("form");
 let inputEmail = document.querySelector("#email")
